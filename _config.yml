@@ -23,7 +23,7 @@ email: hilary.oliver@niwa.co.nz
 description: >- # this means to ignore newlines until "baseurl:"
   The Cylc Workflow Engine
   Production workflow orchestration for cycling systems
-baseurl: "" # the subpath of your site, e.g. /blog (NEEDED FOR DEV FORKS!)
+baseurl: "cylc.github.io" # the subpath of your site, e.g. /blog (NEEDED FOR DEV FORKS!)
 url: "https://cylc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
